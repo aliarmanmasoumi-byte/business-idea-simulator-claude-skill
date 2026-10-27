@@ -24,8 +24,8 @@ profile + fields
 ## Install
 
 ```bash
-git clone https://github.com/aliarmanmasoumi-byte/venture-sim-skill
-cp -r venture-sim-skill/skills/venture-sim ~/.claude/skills/
+git clone https://github.com/aliarmanmasoumi-byte/business-idea-simulator-claude-skill
+cp -r business-idea-simulator-claude-skill/skills/venture-sim ~/.claude/skills/
 ```
 
 Then, in Claude Code, type `/venture-sim €1,000/month net within a year`, or just ask "what business should I do?".

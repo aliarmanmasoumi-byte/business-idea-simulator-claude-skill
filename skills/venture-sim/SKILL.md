@@ -12,7 +12,7 @@ argument-hint: "[--quick] [--fields N] <goal, e.g. €1,000/month net within a y
 license: MIT
 metadata:
   author: "Arman Masoumi (@aliarmanmasoumi-byte)"
-  source: "https://github.com/aliarmanmasoumi-byte/venture-sim-skill"
+  source: "https://github.com/aliarmanmasoumi-byte/business-idea-simulator-claude-skill"
   version: "1.0.0"
 ---
 
